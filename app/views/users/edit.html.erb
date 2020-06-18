@@ -1,5 +1,10 @@
 <%= form_for @user, url:user_path(@user) do |f|
   %>
+  <ul>
+  <% @user.errors.full_messages.each do |error| %>
+    <li><%= error %></li>
+  <% end %>
+  </ul>
   Username:
   <%= f.text_field :username%>
   Email:
