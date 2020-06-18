@@ -5,11 +5,11 @@
     <li><%= error %></li>
   <% end %>
   </ul>
-  Username:
+  <%= f.label :username%>
   <%= f.text_field :username%>
-  Email:
+  <%= f.label :email%>
   <%= f.email_field :email %>
-  Password:
+  <%= f.label :password%>
   <%= f.password_field :password %>
   <%= f.submit "Update" %>
 <% end %>

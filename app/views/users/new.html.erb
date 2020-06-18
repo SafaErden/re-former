@@ -33,11 +33,11 @@
   </ul>
 
 
-  Username:
+  <%= f.label :username%>
   <%= f.text_field :username, placeholder:"Your name here."%>
-  Email:
+  <%= f.label :email%>
   <%= f.email_field :email, placeholder:"example@example.com" %>
-  Password:
+  <%= f.label :password%>
   <%= f.password_field :password %>
   <%= f.submit "Create" %>
 <% end %>
