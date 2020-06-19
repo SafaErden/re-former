@@ -1,24 +1,60 @@
-# README
+# re-former
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In this Microverse project, we built the Forms Project in The Odin Project’s Ruby on Rails Curriculum. Find it [here.](https://www.theodinproject.com/courses/ruby-on-rails/lessons/forms)
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby (Version 2.7.0)
+- Ruby on Rails (Version 5.2.4.3)
 
-* System dependencies
+## Getting Started
 
-* Configuration
+**Click on the link above in order to see the Live Demo of the front end project.**
 
-* Database creation
+To get a local copy up and running follow these simple example steps.
 
-* Database initialization
+### Prerequisites
 
-* How to run the test suite
+- Terminal
+- Web browser
 
-* Services (job queues, cache servers, search engines, etc.)
+### Setup
 
-* Deployment instructions
+- Download repository files
+- Change directory into folder
+- Run `bundle install`
+- Run `rails db:migrate`
 
-* ...
+## Authors
+
+👤 **Christopher Amanor**
+
+- Github: [@krys2fa](https://github.com/krys2fa)
+- Twitter: [@krys2fa](https://twitter.com/krys2fa)
+- Linkedin: [Christopher Amanor](https://www.linkedin.com/in/christopher-amanor-81a7b93b/)
+
+👤 **Safa ERDEN**
+
+- Github: [@SafaErden](https://github.com/SafaErden)
+- Twitter: [@safaerden](https://twitter.com/safaerden)
+- Linkedin: [SafaErden](https://www.linkedin.com/in/safaerden/)
+
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/SafaErden/re-former/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
+- Odin Project
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
